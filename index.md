@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+## About Lijiaqi
 
 I am a Ph.D. student ggat ...
 
