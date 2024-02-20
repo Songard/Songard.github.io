@@ -2,22 +2,22 @@
 layout: homepage
 ---
 
-## About Lijiaqi
+## About me
 
-I am a Ph.D. student ggat ...
+I am currently a **Second-year** undergraduate student at the **School of Software, Tsinghua University**. My research interests lie primarily in **Computer Vision** and **Graphics** . I am passionate about exploring more research areas。
 
-## Research Interests
+### **Education**
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+**B.E. Software Engineering, School of Software, Tsinghua University, 2022-2026**
 
-## News
+<!-- {% include_relative _includes/publications.md %} -->`
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+## Work Experience
 
-{% include_relative _includes/publications.md %}
+<!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020. -->`
 
-{% include_relative _includes/services.md %}
+## Awards
+
+## 
+
+<!-- {% include_relative _includes/services.md %} -->
