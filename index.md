@@ -6,7 +6,7 @@ layout: homepage
 
 I am currently a **Second-year** undergraduate student at the **School of Software, Tsinghua University**. My research interests lie primarily in **Computer Vision** and **Graphics** . I am passionate about exploring more research areas。
 
-### **Education**
+## **Education**
 
 **B.E. Software Engineering, School of Software, Tsinghua University, 2022-2026**
 
@@ -18,6 +18,8 @@ I am currently a **Second-year** undergraduate student at the **School of Softwa
 
 ## Awards
 
-## 
+
+
+## Misc
 
 <!-- {% include_relative _includes/services.md %} -->
