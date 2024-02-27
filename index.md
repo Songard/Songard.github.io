@@ -19,10 +19,10 @@ Please feel free to contact me!
 ## Experience
 
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020. -->
-**2023.03-2023.07 | Quality of Experience(QOE) Improvement in Mobile Live Streaming Program**
+**2023.03-2023.07 | Quality of Experience(QOE) Improvement in Mobile Live Streaming Program**  
 I joined the Student Research Training program: **User Experience Improvement in Mobile Live Streaming**, adviced by [Prof. Lifeng Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4034.htm). In this project, I extensively searched and read relevant literature, and attempted to implement a method for evaluating video streaming hotspots through C++, fanally applied to the adaptive bitrate system in our laboratory.
 
-**2023.08-2024.05 | 3D human body reconstruction based on inverse rendering**
+**2023.08-2024.05 | 3D human body reconstruction based on inverse rendering**  
 This project is co-supervised by [Prof. Feng Xu](http://xufeng.site/) and [Wenbin Lin]([http://xufeng.site/](https://wenbin-lin.github.io/)), focusing on the reconstruction of real-time human body movements, mesh and lighting textures from a sparse perspective. Specifically, what I am doing in this project is to use a small number of mobile phone videos as input, to estimate the posture of the human and render it into a mesh model in real time.
 
 ## Awards
