@@ -11,12 +11,8 @@ Please feel free to contact me!
 
 
 ## Education
-
 **2022.09-2026.06 | B.E. Software Engineering, [School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/en/)**
 
-
-
-<!--  -->
 
 ## Experience
 
@@ -29,7 +25,6 @@ This project is co-supervised by [Prof. Feng Xu](http://xufeng.site/) and [Wenbi
 
 
 ## Awards
-
 **2023.09 | I won the 2023 Hantex Scholarship in Tsinghua University**
 
 
