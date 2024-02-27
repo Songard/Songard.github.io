@@ -9,13 +9,14 @@ Please feel free to contact me!
 
 ## **Education**
 
-**B.E. Software Engineering, [School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/), 2022-2026**
+**B.E. Software Engineering, [School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/en/), 2022.09-2026.06**
 
 <!-- {% include_relative _includes/publications.md %} -->
 ## Experience
 
 <!-- - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020. -->
-Joined the Student Research Training program with the theme of "User Experience Improvement in Mobile Live Streaming"
+### **User Experience Improvement in Mobile Live Streaming (Student Research Training program) 2023.03-2023.07**
+I joined the Student Research Training program: **User Experience Improvement in Mobile Live Streaming**, adviced by Lifeng Sun
 
 ## Awards
 
