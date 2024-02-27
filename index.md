@@ -11,7 +11,7 @@ Please feel free to contact me!
 
 ## Education
 
-### **2022.09-2026.06 | B.E. Software Engineering, [School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/en/) **
+### **2022.09-2026.06 | B.E. Software Engineering, [School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/en/)**
 
 
 
