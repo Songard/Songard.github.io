@@ -1,13 +1,13 @@
 main:
 
-  - title: Clightbot, A C++ Program Design Class Homework
+  - title: Clightbot, a C++ Program Design Class Homework, 2022.12
     authors: <strong>Jiaqi Li(Group Leader)</strong>, Zeyu Zhang, Yang Li
     conference_short: Homework
-    conference: 2022.12 My first C++ language homework project implemented a puzzle game similar to the well-known game "Lightbot"  through command operations and image file reading and writing.
+    conference: My first C++ language homework project implemented a puzzle game similar to the well-known game "Lightbot"  through command operations and image file reading and writing.
     pdf: https://github.com/Songard/Clightbot/blob/main/readme.pdf
     code: https://github.com/Songard/Clightbot
     image: ./assets/img/covers/Clightbot.bmp
-    notes: A
+    notes:  94/100, A
 
   - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun

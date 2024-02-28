@@ -29,8 +29,8 @@ This project is co-supervised by [Prof. Feng Xu](http://xufeng.site/) and [Wenbi
 
 
 
-## Projects & Homework
 {% include_relative _includes/projects.md %}
+
 {% include_relative _includes/publications.md %}
 
 
