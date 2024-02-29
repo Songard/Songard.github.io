@@ -31,10 +31,25 @@ This project is co-supervised by [Prof. Feng Xu](http://xufeng.site/) and [Wenbi
 
 {% include_relative _includes/projects.md %}
 
-{% include_relative _includes/publications.md %}
+<!--{% include_relative _includes/publications.md %}-->
 
 
 
-## Misc
+## Interests & Misc
 
-{% include_relative _includes/services.md %}
+<!--{% include_relative _includes/services.md %}-->
+
+### 🎺🎵
+
+ I am interested in **trombone and classical music**. I am also a member of [TUSO](https://space.bilibili.com/111538153). Here are some videos of our performances:
+
+ **Tsinghua University New Year Special Concert, 2024.01**. We played four works including Dvorak Symphony No 9 in E minor. [Click here](https://space.bilibili.com/111538153/channel/collectiondetail?sid=2126511) to view the full video
+
+### ✈📷
+
+### 🤝🌻
+
+
+
+
+
