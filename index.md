@@ -13,8 +13,7 @@ Please feel free to contact me!
 ## Education
 **2022.09-2026.06 | B.E. Software Engineering, [School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/en/)**
 
-
-## Experience
+## Research Experience
 
 **2023.03-2023.07 | Quality of Experience(QoE) Improvement in Mobile Live Streaming Program**  
 I joined the Student Research Training program: QoE Improvement in Mobile Live Streaming, adviced by [Prof. Lifeng Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4034.htm). In this project, I extensively searched and read relevant literature, and attempted to implement a method for evaluating video streaming hotspots through C++, fanally applied to the adaptive bitrate system in our laboratory.
@@ -33,6 +32,10 @@ This project is co-supervised by [Prof. Feng Xu](http://xufeng.site/) and [Wenbi
 
 <!--{% include_relative _includes/publications.md %}-->
 
+## Publications
+
+I am working hard to get my first publication...
+
 
 
 ## Interests & Misc
@@ -43,13 +46,19 @@ This project is co-supervised by [Prof. Feng Xu](http://xufeng.site/) and [Wenbi
 
  I am interested in **trombone and classical music**. I am also a member of [TUSO](https://space.bilibili.com/111538153). Here are some videos of our performances:
 
- **Tsinghua University New Year Special Concert, 2024.01**. We played four works including Dvorak Symphony No 9 in E minor. [Click here](https://space.bilibili.com/111538153/channel/collectiondetail?sid=2126511) to view the full video
+**[Tsinghua University New Year Special Concert](https://space.bilibili.com/111538153/channel/collectiondetail?sid=2126511), 2024.01** 
+
+**[TUSO’s 30th Anniversary Concert](https://space.bilibili.com/111538153/channel/collectiondetail?sid=1468813), 2023.06**
 
 ### ✈📷
 
+I like **traveling and photography**. My profile picture was taken during my trip to Kyoto. 
+
+I hope to share my travel experiences here, and you will see them soon...
+
 ### 🤝🌻
 
-
+I plan to document my **volunteer activities** here, which you will be able to see soon...
 
 
 
