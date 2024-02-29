@@ -1,6 +1,6 @@
 main:
 
-  - title: Clightbot, a C++ Program Design Class Homework, 2022.12
+  - title: "Clightbot, a C++ Program Design Class Homework, 2022.12"
     authors: <strong>Jiaqi Li(Group Leader)</strong>, Zeyu Zhang, Yang Li
     conference_short: Homework
     conference: My first C++ language homework project implemented a puzzle game similar to the well-known game "Lightbot"  through command operations and image file reading and writing.
@@ -9,13 +9,10 @@ main:
     image: ./assets/img/covers/Clightbot.bmp
     notes:  94/100, A
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "MediPlot, a medical data visualization software based on Qt, 2023.09"
+    authors: <strong>Jiaqi Li</strong>
+    conference_short: Homework
+    conference: Mediplot is a medical data visualization software developed based on Qt and Eigen, which is a project for my programming training course. This program realizes necessary functions for data analysis such as data import, chart drawing, and cluster analysis.
+    code: https://github.com/Songard/MediPlot
+    notes: 90/100, A-
+    image: .\assets\img\covers\MediPlot.png
