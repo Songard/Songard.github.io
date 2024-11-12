@@ -2,7 +2,7 @@ main:
   - title: "Multi-Robot Social Navigation with Cooperative Occupancy Prediction"
     authors: <strong>Jiaqi Li</strong>, Yiping Li, Zehao Wang, Albert Dang, Jiachen Li
     pdf: ./assets/papers/Multi-Robot_Social_Navigation.pdf
-    image: ./assets/img/covers/robot_navigation.png"
+    image: ./assets/img/covers/robot_navigation.png
     notes: "Currently under review"
     others: ""
 
