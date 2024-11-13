@@ -24,15 +24,14 @@ I joined the Student Research Training program: QoE Improvement in Mobile Live S
 
 ## Awards
 **2024.10 | Received the Weng Scholarship at Tsinghua University**
-
 **2023.09 | I won the 2023 Hantex Scholarship in Tsinghua University**
 
 {% include_relative _includes/projects.md %}
 
 <!--I am working hard to get my first publication...-->
 
-## Publications
-<!-- {% include_relative _includes/publications.md %} -->
+<!-- ## Publications -->
+{% include_relative _includes/publications.md %}
 
 
 
