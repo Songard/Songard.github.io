@@ -9,7 +9,7 @@ I am currently a **Third-year** undergraduate student at the **School of Softwar
 Please feel free to contact me!
 
 ## Education
-**2022.09-2026.06 | B.E. Software Engineering, [School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/en/)**
+**2022.09-2026.06   B.E. Software Engineering, [School of Software, Tsinghua University](https://www.thss.tsinghua.edu.cn/en/)**
 
 ## Research Experience
 
@@ -23,10 +23,10 @@ This project is directed by [Prof. Feng Xu](http://xufeng.site/) and [Wenbin Lin
 I joined the Student Research Training program: QoE Improvement in Mobile Live Streaming, advised by [Prof. Lifeng Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4034.htm). In this project, I extensively searched and reviewed relevant literature, and implemented a method for evaluating video streaming hotspots using C++. This method was finally applied to the adaptive bitrate system in our laboratory.
 
 ## Awards & Scholarships
-**2024.10** | Received the Weng Scholarship at Tsinghua University
+**2024.10   Received the Weng Scholarship at Tsinghua University.**
 
 
-**2023.09** | I won the 2023 Hantex Scholarship in Tsinghua University
+**2023.09   I won the 2023 Hantex Scholarship in Tsinghua University**
 
 
 {% include_relative _includes/projects.md %}
