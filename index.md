@@ -32,7 +32,7 @@ I joined the Student Research Training program: QoE Improvement in Mobile Live S
 <!--I am working hard to get my first publication...-->
 
 ## Publications
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
 
 
 
