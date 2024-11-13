@@ -22,9 +22,12 @@ This project is directed by [Prof. Feng Xu](http://xufeng.site/) and [Wenbin Lin
 **2023.03-2023.07 | Quality of Experience(QoE) Improvement in Mobile Live Streaming Program**  
 I joined the Student Research Training program: QoE Improvement in Mobile Live Streaming, advised by [Prof. Lifeng Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4034.htm). In this project, I extensively searched and reviewed relevant literature, and implemented a method for evaluating video streaming hotspots using C++. This method was finally applied to the adaptive bitrate system in our laboratory.
 
-## Awards
+## Awards & Scholarships
 **2024.10 | Received the Weng Scholarship at Tsinghua University**
+
+
 **2023.09 | I won the 2023 Hantex Scholarship in Tsinghua University**
+
 
 {% include_relative _includes/projects.md %}
 
