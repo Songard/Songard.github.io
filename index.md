@@ -14,7 +14,9 @@ Please feel free to contact me!
 ## Research Experience
 
 **2024.06- | Multi-Robot Social Navigation with Cooperative Occupancy Prediction**  
-Directed by [Prof. Jiachen Li](https://jiachenli94.github.io/). In this project, I introduced a novel multi-robot social navigation system that integrates **cooperative perception** from autonomous driving into **multi-agent reinforcement learning**. Under Prof. Jiachen Li's guidance, I had the opportunity to lead a small research group for the first time, which was a memorable experience. The paper related to this project is currently under review.
+I went to the [TASL](http://tasl.ucr.edu/) at the University of California, Riverside as a visiting scholar to conduct this research under the guidance of [Prof. Jiachen Li](https://jiachenli94.github.io/). In this project, we integrated cooperative perception methods into a multi-agent reinforcement learning framework to address social navigation tasks using Occupancy Grid Map Prediction (OGMP). Our approach resulted in performance enhancements in navigating complex environments with multiple agents. Through this experience, I gained a understanding of reinforcement learning and social navigation tasks, as well as skills in communicating and leading research within a diverse team.
+
+
 
 **2023.08-2024.05 | Feature Aggregation for Real-time Free-viewpoint Dynamic Human Video from Sparse Views**  
 This project is directed by [Prof. Feng Xu](http://xufeng.site/) and [Wenbin Lin](https://wenbin-lin.github.io/), focusing on the reconstruction of real-time human body movements, mesh, and lighting textures from sparse perspectives. Specifically, I utilize a small number of mobile phone videos as input to estimate human posture and render it into a mesh model in real time. The paper related to this project is currently under review.
