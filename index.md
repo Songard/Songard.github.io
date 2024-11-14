@@ -28,13 +28,12 @@ I joined the Student Research Training program: QoE Improvement in Mobile Live S
 
 **2023.09 \|  I won the 2023 Hantex Scholarship in Tsinghua University**
 
+{% include_relative _includes/publications.md %}
 
 {% include_relative _includes/projects.md %}
 
-<!--I am working hard to get my first publication...-->
 
-<!-- ## Publications -->
-{% include_relative _includes/publications.md %}
+
 
 
 

@@ -1,5 +1,20 @@
 main:
+  - title: "Multi-Modal AI Assistant, 2024.8"
+    authors: <strong>Jiaqi Li(Group Leader)</strong>, T. Zhang, M. Que, R. Zhang
+    conference_short: Course Project
+    conference: Developed a multi-modal AI assistant that integrates language processing, image generation, and speech recognition capabilities using LocalAI and Gradio. The assistant facilitates interactive conversations, generates images from textual prompts, understands and responds to voice commands, summarizes document content, and classifies images. This project provided me a valuable insights into project management and multi-model integration.
+    code: https://git.tsinghua.edu.cn/jiaqi-li22/ai-assistant-2024
+    image: ./assets/img/covers/AI_Assistant.png
+    notes: 97/100, A
 
+  - title: "MediPlot, a medical data visualization software based on Qt, 2023.09"
+    authors: <strong>Jiaqi Li</strong>
+    conference_short: Homework
+    conference: Mediplot is a medical data visualization software developed based on Qt and Eigen, which is a project for my programming training course. This program realizes necessary functions for data analysis such as data import, chart drawing, and cluster analysis.
+    code: https://github.com/Songard/MediPlot
+    notes: 90/100, A-
+    image: .\assets\img\covers\MediPlot.png
+    
   - title: "Clightbot, a C++ Program Design Class Homework, 2022.12"
     authors: <strong>Jiaqi Li(Group Leader)</strong>, Zeyu Zhang, Yang Li
     conference_short: Homework
@@ -9,10 +24,5 @@ main:
     image: ./assets/img/covers/Clightbot.bmp
     notes:  94/100, A
 
-  - title: "MediPlot, a medical data visualization software based on Qt, 2023.09"
-    authors: <strong>Jiaqi Li</strong>
-    conference_short: Homework
-    conference: Mediplot is a medical data visualization software developed based on Qt and Eigen, which is a project for my programming training course. This program realizes necessary functions for data analysis such as data import, chart drawing, and cluster analysis.
-    code: https://github.com/Songard/MediPlot
-    notes: 90/100, A-
-    image: .\assets\img\covers\MediPlot.png
+
+
