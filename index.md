@@ -5,7 +5,7 @@ layout: homepage
 
 ## About me
 
-I am currently a **Third-year** undergraduate student at the **School of Software, Tsinghua University**, guided by [Prof. Jiachen Li](https://jiachenli94.github.io/). My current research interests lie primarily in **Reinforcement Learning** and **Social Aware Agents**. I am also passionate about exploring more research areas.
+I am currently a **Third-year** undergraduate student at the **School of Software, Tsinghua University**, guided by [Prof. Jiachen Li](https://jiachenli94.github.io/) . My current research interests lie primarily in **Reinforcement Learning** and **Social Robots**. I am also passionate about exploring more research areas.
 Please feel free to contact me!
 
 ## Education

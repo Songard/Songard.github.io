@@ -7,6 +7,23 @@ main:
     image: ./assets/img/covers/AI_Assistant.png
     notes: 97/100, A
 
+  - title: "Inbound Travel Assistant, 2024.12"
+    authors: <strong>Jiaqi Li(Group Leader)</strong>
+    conference_short: Team Project
+    conference: >
+      This Web program aims to alleviate foreign travelers' language barriers 
+      by providing an intuitive interface for dish recommendations, translations, 
+      and cultural insights. The core solution addresses the pain point of ordering 
+      unfamiliar cuisines or lacking multilingual context when traveling.
+      Leveraging a dish database enhanced by LLM, it delivers context-aware 
+      suggestions, translations, and tags (e.g., “Spicy”, “Vegetarian”) to guide 
+      user choices. The backend is designed in Django with a special focus on 
+      an LLM pipeline that reads from and writes to the dish database, offering 
+      quick retrieval of cuisine details in multiple languages.
+    code: https://github.com/SE2024group/Inbound_Travel_Assistant
+    image: ./assets/img/covers/InboundTravelAssistant.jpg
+    notes: 95/100, A — “Software Innovation & Creativity” Contest 2024, Silver Prize
+
   - title: "MediPlot, a medical data visualization software based on Qt, 2023.09"
     authors: <strong>Jiaqi Li</strong>
     conference_short: Homework
