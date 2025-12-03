@@ -3,7 +3,7 @@ main:
     authors: "<strong>Jiaqi Li*</strong>, Xinhao Liu*, Youming Deng, Ruxin Chen, Yingjia Zhang, Yifei Ma, Li Guo, Yiming Li, Jing Zhang, Chen Feng"
     pdf: "https://arxiv.org/abs/2511.20620"
     image: ./assets/img/covers/Wanderland.png
-    notes: "Currently under review"
+    notes: '<a href="https://arxiv.org/abs/2511.20620" target="_blank">arXiv</a>'
     others: ""
 
   - title: "Coop: Uncertainty-aware multi-robot social navigation with cooperative occupancy prediction"

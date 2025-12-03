@@ -12,6 +12,9 @@ I am currently a **Fourth-year** undergraduate student in **Software Engineering
 
 ## Research Experience
 
+**2025.03-2025.11 | [Wanderland](https://ai4ce.github.io/wanderland/): Geometrically Grounded Simulation for Open-World Embodied AI**
+ I joined the [AI4CE Lab](https://ai4ce.github.io/) at NYU Tandon to work on the Wanderland project under the guidance of [Prof. Chen Feng](https://engineering.nyu.edu/faculty/chen-feng). Wanderland reconstruct large-scale and diverse urban environments using handheld LiDAR–IMU–RGB sensor rigs, training 3D Gaussian Splatting (3DGS) models integrated into Isaac Sim. **We investigate whether visual realism alone is sufficient for embodied AI and conclude negatively—trustworthy benchmarking still demands metric-scale geometric grounding that previous pipelines lack.** My contributions included designing the data acquisition and reconstruction pipeline, optimizing sensor calibration and trajectory estimation, and evaluating geometric constraints' impact on reconstruction quality and reinforcement learning-based navigation performance. This experience significantly deepened my understanding of leveraging geometric priors to enhance embodied AI performance in real-world scenarios.
+
 **2024.06- 2025.01 | Multi-Robot Social Navigation with Cooperative Occupancy Prediction**  
 I went to the [TASL](http://tasl.ucr.edu/) at the University of California, Riverside as a visiting scholar to conduct this research under the guidance of [Prof. Jiachen Li](https://jiachenli94.github.io/). In this project, we integrated cooperative perception methods into a multi-agent reinforcement learning framework to address social navigation tasks using Occupancy Grid Map Prediction (OGMP). Our approach resulted in performance enhancements in navigating complex environments with multiple agents. Through this experience, I gained a understanding of reinforcement learning and social navigation tasks, as well as skills in communicating and leading research within a diverse team.
 
@@ -22,7 +25,7 @@ This project is directed by [Prof. Feng Xu](http://xufeng.site/) and [Wenbin Lin
 I joined the Student Research Training program: QoE Improvement in Mobile Live Streaming, advised by [Prof. Lifeng Sun](https://www.cs.tsinghua.edu.cn/csen/info/1180/4034.htm). In this project, I extensively searched and reviewed relevant literature, and implemented a method for evaluating video streaming hotspots using C++. This method was finally applied to the adaptive bitrate system in our laboratory.
 
 ## Awards & Scholarships
-**2024.11 \| Awarded Comprehensive Scholarship (~Top 10%) at School of Software, Tsinghua University.**
+**2024.11 \|   Awarded Comprehensive Scholarship (~Top 10%) at School of Software, Tsinghua University.**
 
 **2024.10 \|   Received the Weng Scholarship at Tsinghua University.**
 
