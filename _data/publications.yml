@@ -1,6 +1,13 @@
 main:
-  - title: "Multi-Robot Social Navigation with Cooperative Occupancy Prediction"
-    authors: <strong>Jiaqi Li</strong>, Yiping Li, Zehao Wang, Albert Dang, Jiachen Li
+  - title: "Wanderland: Geometrically Grounded Simulation for Open-World Embodied AI"
+    authors: "<strong>Jiaqi Li*</strong>, Xinhao Liu*, Youming Deng, Ruxin Chen, Yingjia Zhang, Yifei Ma, Li Guo, Yiming Li, Jing Zhang, Chen Feng"
+    pdf: "https://arxiv.org/abs/2511.20620"
+    image: ./assets/img/covers/Wanderland.png
+    notes: "Currently under review"
+    others: ""
+
+  - title: "Coop: Uncertainty-aware multi-robot social navigation with cooperative occupancy prediction"
+    authors: Zehao Wang, Yiping Li, <strong>Jiaqi Li</strong>, Kanghoon Lee, Zhixu Li, Cong Liu, Zhaowei Tan, Jinkyoo Park, Jiachen Li
     pdf: ./assets/papers/Multi-Robot_Social_Navigation.pdf
     image: ./assets/img/covers//robot_navigation.png
     notes: "Currently under review"
@@ -9,6 +16,5 @@ main:
   - title: "On-the-fly Feature Aggregation for Real-time Free-viewpoint Dynamic Human Video from Sparse Views"
     authors: "Wenbin Lin, Ruchang Yao, <strong>Jiaqi Li</strong>, Junhai Yong, Feng Xu"
     pdf: ./assets/papers/On-the-fly_Feature_Aggregation.pdf
-    notes: "Currently under review"
     image: ./assets/img/covers/feature_aggregation.png
     others: ""
